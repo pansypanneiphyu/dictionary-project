@@ -1,11 +1,16 @@
 body {
-  background-image: url("./scroll-png-26394.png");
+  background-image: url(./scroll-png-26394.png);
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
-.App-header {
-  margin: 100px 20px;
+.App header {
+  margin: 70px 10px;
 }
 .App footer {
   text-align: center;
+  color: blueviolet;
+  font-weight: bold;
   margin: 20px 10px;
 }

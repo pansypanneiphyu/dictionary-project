@@ -13,9 +13,11 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
-          This project is coded by Pann and{" "}
+          This project is coded by{" "}
+          <a href="https://www.shecodes.io/students/356-pann-phyu"> Pann </a> ,
+          open-sourced on{" "}
           <a href="https://github.com/pansypanneiphyu/dictionary-project">
-            open-sourced on GitHub{" "}
+            GitHub{" "}
           </a>
           and hosted on{" "}
           <a href="https://peaceful-hypatia-33fa43.netlify.app/">Netlify</a>{" "}

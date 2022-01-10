@@ -7,12 +7,12 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
+          <h1 className="text-center">Dictionary App 📖</h1>
         </header>
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer>
           This project is coded by Pann and{" "}
           <a href="https://github.com/pansypanneiphyu/dictionary-project">
             open-sourced on GitHub{" "}

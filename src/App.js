@@ -1,4 +1,3 @@
-import logo from "./shecode.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
 

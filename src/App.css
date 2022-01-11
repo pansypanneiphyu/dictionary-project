@@ -1,17 +1,21 @@
 body {
-  background-image: url(./scroll-png-26394.png);
+  background-image: url(./781373.jpg);
   background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Luminari, fantasy;
+  color: black;
+}
+h1 {
+  color: antiquewhite;
 }
 .App header {
   margin: 70px 10px;
 }
 .App footer {
   text-align: center;
-  color: blueviolet;
+  color: black;
   font-weight: bold;
   margin: 20px 10px;
 }

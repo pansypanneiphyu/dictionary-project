@@ -1,6 +1,8 @@
 .Dictionary section {
-  border: 1mm ridge sandybrown;
-  padding: 7px;
+  background-image: url("./1302751.jpg");
+  background-size: unset;
+  padding: 30px;
+  margin: 20px 0;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgb(0 0 0/10%);
 }

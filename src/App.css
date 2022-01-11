@@ -4,6 +4,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: Luminari, fantasy;
 }
 .App header {
   margin: 70px 10px;

@@ -14,8 +14,17 @@ h1 {
   margin: 70px 10px;
 }
 .App footer {
+  background-image: url("./1302751.jpg");
+  background-size: unset;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgb(0 0 0/10%);
   text-align: center;
   color: black;
   font-weight: bold;
   margin: 20px 10px;
+}
+
+.App a {
+  text-decoration: underline;
+  color: blue;
 }

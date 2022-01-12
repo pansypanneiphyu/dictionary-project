@@ -9,7 +9,7 @@ export default function App() {
           <h1 className="text-center">Pann's Dictionary App 📖</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="Ancient" />
+          <Dictionary defaultKeyword="Myanmar" />
         </main>
         <footer>
           This project is coded by{" "}

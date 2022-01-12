@@ -8,10 +8,16 @@ body {
   color: black;
 }
 h1 {
-  color: antiquewhite;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  margin: 0 auto;
 }
-.App header {
-  margin: 70px 10px;
+.App-header {
+  background-color: #af804556;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgba(221, 214, 214, 0.529);
+  margin: 20px 0;
 }
 .App footer {
   background-image: url("./1302751.jpg");

@@ -12,6 +12,12 @@ h1 {
   text-align: center;
   margin: 30px;
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   background-color: transparent;
   border-radius: 6px;

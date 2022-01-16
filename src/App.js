@@ -20,6 +20,10 @@ export default function App() {
           </a>
           and hosted on{" "}
           <a href="https://peaceful-hypatia-33fa43.netlify.app/">Netlify</a>{" "}
+          <br />
+          Check the
+          <a href="https://modest-mayer-b1d552.netlify.app/">Weather</a> on the
+          way.
         </footer>
       </div>
     </div>

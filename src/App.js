@@ -13,17 +13,40 @@ export default function App() {
         </main>
         <footer>
           This project is coded by{" "}
-          <a href="https://www.shecodes.io/students/356-pann-phyu"> Pann </a> ,
-          open-sourced on{" "}
-          <a href="https://github.com/pansypanneiphyu/dictionary-project">
+          <a
+            href="https://www.shecodes.io/students/356-pann-phyu"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            {" "}
+            Pann{" "}
+          </a>{" "}
+          , open-sourced on{" "}
+          <a
+            href="https://github.com/pansypanneiphyu/dictionary-project"
+            target={"_blank"}
+            rel="noreferrer"
+          >
             GitHub{" "}
           </a>
           and hosted on{" "}
-          <a href="https://peaceful-hypatia-33fa43.netlify.app/">Netlify</a>{" "}
+          <a
+            href="https://peaceful-hypatia-33fa43.netlify.app/"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Netlify
+          </a>{" "}
           <br />
-          Check the
-          <a href="https://modest-mayer-b1d552.netlify.app/">Weather</a> on the
-          way.
+          If you are planning to go out tomorrow, check the{" "}
+          <a
+            href="https://modest-mayer-b1d552.netlify.app/"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Weather
+          </a>{" "}
+          on the way.
         </footer>
       </div>
     </div>
